@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 #[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
-![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/leejngmn}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-#[![Jngmn's github stats](https://github-readme-stats.vercel.app/api?username={leejngmn}&count_private={true}&custom_title={타이틀(string)}&bg_color={그라데이션 각도,색1,색2,...}&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats)
+#[출처] https://junia3.github.io/blog/githubreadme
+#https://velog.io/@debut12/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejngmn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejngmn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=e8f4fff&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=leejngmn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
